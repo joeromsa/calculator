@@ -8,3 +8,18 @@
     border-radius: 4px 4px 0px 0px;
     opacity: 1;
 }
+
+.value {
+    width: 35px;
+    height: 72px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-60)/var(--unnamed-line-spacing-72) var(--unnamed-font-family-lato);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-707070);
+    text-align: left;
+    font: normal normal normal 60px/72px Lato;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+    margin-left: 305px;
+    padding-top: 63px;
+}
