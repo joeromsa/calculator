@@ -4,7 +4,6 @@ import '../styles/Body.css';
 const CalcBody = () => {
     return (
         <div className="calcBody">
-            Body
         </div>
     );
 }

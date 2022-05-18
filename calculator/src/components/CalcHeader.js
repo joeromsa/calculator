@@ -4,7 +4,6 @@ import '../styles/Header.css';
 const CalcHeader = () => {
     return (
         <div className="header">
-            Header
         </div>
     );
 }
